@@ -372,5 +372,3 @@ Copyright © 2026 Akilan R
 
 Distributed under the MIT License.
 
-
-> Reviewed: Consider removing claims about Vitest/ESLint if not in package, and ensure folder structure matches repo.
